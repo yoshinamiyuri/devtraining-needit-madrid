@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Target" section_id="d328359adbe233002447cc30399619b7" sys_domain="global" table="" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 06:24:54</sys_created_on>
+            <sys_id>73deb112db2633002447cc303996193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Target" display_value="Target" name="NULL" sys_domain="global" view="Default view">d328359adbe233002447cc30399619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 06:24:54</sys_created_on>
+            <sys_id>f7deb112db2633002447cc303996193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Target" display_value="Target" name="NULL" sys_domain="global" view="Default view">d328359adbe233002447cc30399619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fbdeb112db2633002447cc303996192e</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 06:24:54</sys_created_on>
+            <sys_id>7bdeb112db2633002447cc303996193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Target" display_value="Target" name="NULL" sys_domain="global" view="Default view">d328359adbe233002447cc30399619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:24:54</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label>Active NeedIt Requests by Type</label>
+            <report display_value="NeedIt Requests by Type">a6ab8956db6233002447cc3039961921</report>
+            <report_field/>
+            <report_qual/>
+            <section caption="Target" display_value="Target" name="NULL" sys_domain="global" view="Default view">d328359adbe233002447cc30399619b7</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 06:24:54</sys_created_on>
+            <sys_id>fbdeb112db2633002447cc303996192e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:26:30</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Target</caption>
+            <header>false</header>
+            <name/>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 05:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d328359adbe233002447cc30399619b7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Target</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_d328359adbe233002447cc30399619b7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 06:26:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
